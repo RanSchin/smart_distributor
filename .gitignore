@@ -1,0 +1,6 @@
+.idea/
+setup.cfg
+setup.py
+build/
+dist/
+smartdistributor.egg-info/
